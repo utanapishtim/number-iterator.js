@@ -1,0 +1,23 @@
+{
+  "name": "number-iterator",
+  "version": "0.0.0",
+  "description": "A function for iterating over numbers in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "iterator",
+    "iterate",
+    "number",
+    "binary",
+    "hexadecimal",
+    "octal",
+    "hex",
+    "numeric",
+    "iterator",
+    "javascript"
+  ],
+  "author": "utanapishtim",
+  "license": "BSD-3-Clause"
+}
