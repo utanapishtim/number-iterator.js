@@ -5,7 +5,7 @@ If you squint, you can think of a number as composed of different parts. For exa
 school you may have had a number like 184 as 'made up of' one hundred, eight tens, and four ones.
 
 We can conceptually think of a number as a kind of container then:
-
+```
   weight:                    100s    10s   1s
                            +-------+-----+-----+
   digit:                   |   1   |  8  |  4  |
@@ -14,7 +14,7 @@ We can conceptually think of a number as a kind of container then:
   position right to left:      2      1     0
 
   size: 3
-
+```
 The weight of a given number is determined by its radix or base representation. The above diagram
 holds for the number 184 in base 10 representation, the diagram would look different for different
 bases.

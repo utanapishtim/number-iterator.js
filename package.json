@@ -1,6 +1,6 @@
 {
   "name": "number-iterator",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "A function for iterating over numbers in javascript.",
   "main": "index.js",
   "scripts": {
