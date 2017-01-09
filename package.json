@@ -19,5 +19,8 @@
     "javascript"
   ],
   "author": "utanapishtim",
-  "license": "BSD-3-Clause"
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "testcheck": "^0.1.4"
+  }
 }
